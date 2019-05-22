@@ -11,7 +11,9 @@ Tool Name : RomaDroid
   = java -jar RomaDroid.jar target_directory_path1 taget_directory_path2 result_csv_path result_csv_name  
   
   You have to input 4 argument  
-  1 : Target_directory_path (This directory is set of APK)  
-  2 : Target_directory_path2 (This directory is set of APK)  
+  1 : Target_directory_path (This directory is set of decompiled APK)  
+  2 : Target_directory_path2 (This directory is set of decompiled APK)  
   3 : CSV File Path (You can check result file in this path)  
   4 : CSV File Name  
+  
+  
