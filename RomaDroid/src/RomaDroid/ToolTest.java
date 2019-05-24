@@ -159,7 +159,6 @@ public class ToolTest extends Get_BKFeature{
 				}
 				
 				else if ((ori_list[i].contains(parse[0])) && result < thres) {
-					//System.out.println(obf_list[j]);
 					fn += 1.0;			
 				}
 
