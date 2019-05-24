@@ -140,9 +140,9 @@ public class ToolTest extends Get_BKFeature{
 		}
 		
 		System.out.println("===== RomaDroid LCS result ====");
-		for(int i = 14; i < ori_list.length; i++) {
+		for(int i = 0; i < ori_list.length; i++) {
 			cop_count = 0;
-			for(int j = 62; j < obf_list.length; j++) {
+			for(int j = 0; j < obf_list.length; j++) {
 							
 				//Option IF start
 				if(obf_str[j] != null && ori_str[i] != null) {
