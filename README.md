@@ -14,7 +14,12 @@ Tool Name : RomaDroid
   1 : Target_directory_path (This directory is set of decompiled APK)  
   2 : Target_directory_path2 (This directory is set of decompiled APK)  
   3 : CSV File Path (You can check result file in this path)  
-  4 : CSV File Name  
+  4 : CSV File Name 
+  
+  If App called A has a similarity rate of more than 90% to App called B,  
+  RomaDroid catch this case, and write in CSV.
+  If App called A has a similarity rate of more than 90% to App called A,  
+  RomaDroid dont catch this case.
   
 # Precautions 
 
@@ -56,4 +61,7 @@ for (line in lines of AndroidManifest.xml) {
 
 If the line is too long to go to the next line,  
 Minor version RomaDroid add this line to new signature.
+
+#  Version  
+
 
