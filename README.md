@@ -29,7 +29,7 @@ If you write paper or making open-source-software, I hope that you cite our pape
 
 # Minor version - Main version  
 
-'''java
+```java
 /* Minor Version */  
 for (line in lines of AndroidManifest.xml) {  
   if (line in second Tag of AndroidManifest.xml)   
@@ -52,4 +52,4 @@ for (line in lines of AndroidManifest.xml) {
      }  
  }  
          
-'''
+```
