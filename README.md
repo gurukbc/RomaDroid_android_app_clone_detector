@@ -2,7 +2,7 @@
 
 Developer : Byoung Chul Kim in CSOS, Dankook University  
 Contect Mail : gurukbc2@gmail.com  
-Paper : 2019 IEEE ACCESS (not yet publish)  
+Paper : 2019 IEEE ACCESS (publish)  
 Tool Name : RomaDroid  
 
 # Usage  
@@ -16,4 +16,14 @@ Tool Name : RomaDroid
   3 : CSV File Path (You can check result file in this path)  
   4 : CSV File Name  
   
+# Precautions 
+
+This tool is minor version of RomaDroid (You can check main version tool in IEEE ACCESS Paper)  
+minor version tool is different in core code from main version ; just little  
+But,  
+minor version RomaDroid has slightly better performance than main version RomaDroid.  
+If you want to main version RomaDroid (same Paper version), please contact to mail.  
   
+Finally,  
+If you write paper or making open-source-software, I hope that you cite our paper in IEEE ACCESS.  
+
