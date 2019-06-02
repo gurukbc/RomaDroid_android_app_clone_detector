@@ -64,6 +64,4 @@ for (line in lines of AndroidManifest.xml) {
 If the line is too long to go to the next line,  
 Minor version RomaDroid add this line to new signature.
 
-#  Version  
-
 
