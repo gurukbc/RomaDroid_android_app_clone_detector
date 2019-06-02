@@ -31,25 +31,25 @@ If you write paper or making open-source-software, I hope that you cite our pape
 
 '''java
 /* Minor Version */  
-for (line in lines of AndroidManifest.xml) {
-  if (line in second Tag of AndroidManifest.xml) 
-     {
-       line = 2B (second Tag signature)
-     }
-}
-
-
-/* Main Version */
-for (line in lines of AndroidManifest.xml) {
-  if (line in second Tag of AndroidManifest.xml) 
-     {
-       if (line is head of current Tag) {
-         line = 2B
-       }
-       else {
-         continue;
-       }
-     }
- }
-       
-
+for (line in lines of AndroidManifest.xml) {  
+  if (line in second Tag of AndroidManifest.xml)   
+     {  
+       line = 2B (second Tag signature)  
+     }  
+}  
+  
+  
+/* Main Version */  
+for (line in lines of AndroidManifest.xml) {  
+  if (line in second Tag of AndroidManifest.xml)   
+     {  
+       if (line is head of current Tag) {  
+         line = 2B  
+       }  
+       else {  
+         continue;  
+       }  
+     }  
+ }  
+         
+'''
