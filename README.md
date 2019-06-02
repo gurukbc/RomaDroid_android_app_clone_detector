@@ -25,5 +25,31 @@ minor version RomaDroid has slightly better performance than main version RomaDr
 If you want to main version RomaDroid (same Paper version), please contact to mail.  
   
 Finally,  
-If you write paper or making open-source-software, I hope that you cite our paper in IEEE ACCESS.  
+If you write paper or making open-source-software, I hope that you cite our paper in IEEE ACCESS.
+
+# Minor version - Main version  
+
+'''java
+/* Minor Version */  
+for (line in lines of AndroidManifest.xml) {
+  if (line in second Tag of AndroidManifest.xml) 
+     {
+       line = 2B (second Tag signature)
+     }
+}
+
+
+/* Main Version */
+for (line in lines of AndroidManifest.xml) {
+  if (line in second Tag of AndroidManifest.xml) 
+     {
+       if (line is head of current Tag) {
+         line = 2B
+       }
+       else {
+         continue;
+       }
+     }
+ }
+       
 
