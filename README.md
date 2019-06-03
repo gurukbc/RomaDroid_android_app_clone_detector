@@ -19,7 +19,7 @@ Tool Name : RomaDroid
   4 : CSV File Name 
   
   If App called A has a similarity rate of more than 90% to App called B,  
-  RomaDroid catch this case, and write in CSV.
+  RomaDroid catch this case, and write in CSV.  
   If App called A has a similarity rate of more than 90% to App called A,  
   RomaDroid dont catch this case.
   
