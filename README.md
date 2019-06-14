@@ -2,7 +2,7 @@
 
 Developer : Byoung Chul Kim in CSOS, Dankook University  
 Contect Mail : gurukbc2@gmail.com  
-Paper : 2019 IEEE ACCESS (DOI = 10.1109/ACCESS.2019.2920314)
+Paper : 2019 IEEE ACCESS (DOI = 10.1109/ACCESS.2019.2920314)  
 Tool Name : RomaDroid  
 
 # Usage  
